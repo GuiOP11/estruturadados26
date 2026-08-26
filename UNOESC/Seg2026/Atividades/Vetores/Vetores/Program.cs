@@ -50,7 +50,7 @@ Sintaxe: type[]
 //Declaração sem inicialização
 //Obs: Variável alocada mas nula
 
-int[] number2 =
+/*int[] number2 =
     new int[] { 100, 200, 300 };
 
 int[] number3 =
@@ -89,6 +89,26 @@ for (int i = 0; i < myArray.Length; i++)
 Console.WriteLine(
     "Contagem = " + counter
 );
+*/
+ using System.Globalization;
 
 
+string[] moths = new string[12];
+for (int i = 1; i<= 12; i++){
+    DateTime firstDay =
+    new DateTime(DateTime.Now.Year, i, 1);
 
+    DateTime lastDayMonthBefore =
+    firstDay.AddDays(-1);
+
+    string monthName = 
+    firstDay.ToString("MMMM",
+   CultureInfo.CreateSpecificCulture
+     ("pt-BR"));
+
+moths[i-1] = monthName;
+}
+
+foreach (string monthName in moths){
+    Console.WriteLine($"---> {monthName}");
+}
