@@ -1,0 +1,15 @@
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\bin\Debug\net10.0\Listas.exe
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\bin\Debug\net10.0\Listas.deps.json
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\bin\Debug\net10.0\Listas.runtimeconfig.json
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\bin\Debug\net10.0\Listas.dll
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\bin\Debug\net10.0\Listas.pdb
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\Listas.AssemblyInfoInputs.cache
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\Listas.AssemblyInfo.cs
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\Listas.sourcelink.json
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\Listas.dll
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\refint\Listas.dll
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\Listas.pdb
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\Listas.genruntimeconfig.cache
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Listas\obj\Debug\net10.0\ref\Listas.dll
