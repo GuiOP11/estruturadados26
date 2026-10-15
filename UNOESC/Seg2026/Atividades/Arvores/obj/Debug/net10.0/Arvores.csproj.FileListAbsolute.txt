@@ -1,0 +1,15 @@
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\bin\Debug\net10.0\Arvores.exe
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\bin\Debug\net10.0\Arvores.deps.json
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\bin\Debug\net10.0\Arvores.runtimeconfig.json
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\bin\Debug\net10.0\Arvores.dll
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\bin\Debug\net10.0\Arvores.pdb
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\Arvores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\Arvores.AssemblyInfoInputs.cache
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\Arvores.AssemblyInfo.cs
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\Arvores.csproj.CoreCompileInputs.cache
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\Arvores.sourcelink.json
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\Arvores.dll
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\refint\Arvores.dll
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\Arvores.pdb
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\Arvores.genruntimeconfig.cache
+C:\Users\460874\Desktop\unoesc\estruturadados26\UNOESC\Seg2026\Atividades\Arvores\obj\Debug\net10.0\ref\Arvores.dll
